@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hello! My name is Asaad, and I'm an aspiring software developer with a strong interest in building efficient and user-focused applications. I enjoy problem-solving, learning new technologies, and improving my skills through practice and collaboration. My goal is to become a developer who not only writes clean code but also creates meaningful solutions that help others...
+Hello! My name is Asaad, and I'm an aspiring software developer with a strong interest in building efficient and user-focused applications. I enjoy problem-solving, learning new technologies, and improving my skills through practice and collaboration. My goal is to become a developer who not only writes clean code but also creates meaningful solutions that help others.
 
 ---
 
